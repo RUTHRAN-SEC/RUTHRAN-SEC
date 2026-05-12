@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/SIEM-Engineering-blueviolet" />
 </p>
 
-Focused on hands-on cybersecurity investigations, blue team operations, digital forensics, web application security testing, and offensive security labs. Experienced in investigating real-world attack scenarios, log analysis, endpoint investigations, phishing analysis, network forensics, SIEM engineering, and web exploitation techniques.
+Focused on hands on cybersecurity investigations, blue team operations, digital forensics, web application security testing, and offensive security labs. Experienced in investigating real world attack scenarios, log analysis, endpoint investigations, phishing analysis, network forensics, SIEM engineering, and web exploitation techniques.
 
 ---
 
@@ -23,7 +23,7 @@ Focused on hands-on cybersecurity investigations, blue team operations, digital 
 
 I am a cybersecurity enthusiast focused on Security Operations Center (SOC) investigations, Digital Forensics & Incident Response (DFIR), threat hunting, and web application security.
 
-My work is heavily hands-on and investigation-driven. I continuously build practical labs, detection engineering projects, SIEM environments, penetration testing labs, and real-world incident investigations to strengthen my blue team and offensive security skills.
+My work is heavily hands on and investigation driven. I continuously build practical labs, detection engineering projects, SIEM environments, penetration testing labs, and real world incident investigations to strengthen my blue team and offensive security skills.
 
 I actively document:
 - Security investigations
@@ -138,7 +138,7 @@ I actively document:
 ## SOC Investigations & DFIR
 
 ### SOC Hands-on Investigation and Challenges
-Professional SOC investigation repository containing real-world blue team investigations, malware analysis, phishing investigations, endpoint forensics, threat hunting, and network traffic analysis challenges.
+Professional SOC investigation repository containing real world blue team investigations, malware analysis, phishing investigations, endpoint forensics, threat hunting, and network traffic analysis challenges.
 
 Repository:
 - https://github.com/RUTHRAN-SEC/SOC-Hands-on-Investigation-and-Challenges
@@ -158,7 +158,7 @@ Investigations Include:
 ## Detection Engineering & SIEM
 
 ### SOC-ELK-Sigma
-Hands-on SIEM engineering and detection repository focused on ELK Stack, Sigma rules, security monitoring, and detection logic creation.
+Hands on SIEM engineering and detection repository focused on ELK Stack, Sigma rules, security monitoring, and detection logic creation.
 
 Repository:
 - https://github.com/RUTHRAN-SEC/SOC-ELK-Sigma
@@ -226,7 +226,7 @@ Repository:
 ## Pentesting & CTF
 
 ### PenTest-and-CTF
-Hands-on penetration testing labs and Capture The Flag writeups documenting exploitation methodologies, privilege escalation techniques, reconnaissance, and post-exploitation.
+Hands on penetration testing labs and Capture The Flag writeups documenting exploitation methodologies, privilege escalation techniques, reconnaissance, and post-exploitation.
 
 Repository:
 - https://github.com/RUTHRAN-SEC/PenTest-and-CTF
