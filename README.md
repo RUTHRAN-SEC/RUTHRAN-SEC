@@ -295,7 +295,7 @@ Topics Include:
 
 ---
 
-# Certifications & Learning
+# Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-Programming-blue" />
@@ -304,7 +304,6 @@ Topics Include:
   <img src="https://img.shields.io/badge/Tableau-Visualization-blue" />
   <img src="https://img.shields.io/badge/Machine-Learning-success" />
   <img src="https://img.shields.io/badge/TensorFlow-AI-orange" />
-  <img src="https://img.shields.io/badge/SAS-Certified-blueviolet" />
   <img src="https://img.shields.io/badge/Ethical-Hacking-critical" />
 </p>
 
@@ -312,10 +311,8 @@ Topics Include:
 - Python
 - SQL
 - Power BI
-- Tableau
 - Machine Learning
 - TensorFlow
-- SAS Certifications
 - Cybersecurity Labs
 - Network Security
 - Ethical Hacking
@@ -332,4 +329,4 @@ LinkedIn:
 
 ---
 
-"Security investigations are built through practice, curiosity, and continuous analysis."
+**"Security investigations are built through practice, curiosity, and continuous analysis."**
