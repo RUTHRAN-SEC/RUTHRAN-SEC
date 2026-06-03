@@ -1,332 +1,251 @@
-# RUTHRAN
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RUTHRAN-SEC&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/RUTHRAN-SEC?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/RUTHRAN-SEC?style=social" />
-</p>
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RUTHRAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SOC%20Analyst%20%7C%20Blue%20Team%20Defender%20%7C%20DFIR%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SOC-Analyst-blue" />
-  <img src="https://img.shields.io/badge/DFIR-Digital_Forensics-black" />
-  <img src="https://img.shields.io/badge/Threat-Hunting-darkblue" />
-  <img src="https://img.shields.io/badge/Web-Security-darkred" />
-  <img src="https://img.shields.io/badge/Malware-Analysis-critical" />
-  <img src="https://img.shields.io/badge/SIEM-Engineering-blueviolet" />
-</p>
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=RUTHRAN-SEC&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
 
-Focused on hands on cybersecurity investigations, blue team operations, digital forensics, web application security testing, and offensive security labs. Experienced in investigating real world attack scenarios, log analysis, endpoint investigations, phishing analysis, network forensics, SIEM engineering, and web exploitation techniques.
+<!-- TYPING HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=SOC+Analyst+%7C+Blue+Team+Defender;SIEM+%7C+Splunk+SPL+%7C+Elastic+Stack;DFIR+%7C+Threat+Detection+%7C+MITRE+ATT%26CK;Protecting+Digital+Infrastructure+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG"/>
+
+</div>
 
 ---
 
-# About Me
+## 👾 About Me
 
-I am a cybersecurity enthusiast focused on Security Operations Center (SOC) investigations, Digital Forensics & Incident Response (DFIR), threat hunting, and web application security.
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-My work is heavily hands on and investigation driven. I continuously build practical labs, detection engineering projects, SIEM environments, penetration testing labs, and real world incident investigations to strengthen my blue team and offensive security skills.
+```python
+#!/usr/bin/env python3
+# ruthran_profile.py
 
-I actively document:
-- Security investigations
-- Incident response workflows
-- Threat hunting methodologies
-- Malware behavior analysis
-- Network traffic investigations
-- Web application vulnerabilities
-- Detection engineering
-- API security testing
-- Capture The Flag (CTF) writeups
+class SOCAnalyst:
+    def __init__(self):
+        self.name            = "Ruthran"
+        self.alias           = "RUTHRAN-SEC"
+        self.location        = "India 🇮🇳"
+        self.role            = "Aspiring SOC Analyst | Blue Teamer"
+        self.degree          = "B.Voc Data Science @ The American College (2024–2027)"
+        self.email           = "ruthran.sec@gmail.com"
 
----
+        self.stack = [
+            "Splunk (SPL · Dashboards · Alerts)",
+            "Elastic Stack", "Wireshark", "Sysmon",
+            "Microsoft Defender", "CrowdStrike (Concept)",
+            "Cisco ASA Firewall", "Cisco Packet Tracer",
+            "VirusTotal · AbuseIPDB · Any.Run",
+            "MITRE ATT&CK · Cyber Kill Chain",
+        ]
 
-# Core Skills
+        self.currently_learning = [
+            "🔴 Malware Reverse Engineering → Static & Dynamic Analysis",
+            "☁️  Cloud Security → AWS · Azure Sentinel",
+            "🐍 Python Scripting → Log Parsing · SOAR Automation",
+            "📜 Sigma Rules → Custom Detection Engineering",
+        ]
 
-## Blue Team
+        self.fun_fact  = "I map every suspicious event to MITRE ATT&CK before breakfast ☕"
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SOC-Investigations-success" />
-  <img src="https://img.shields.io/badge/Threat-Hunting-darkblue" />
-  <img src="https://img.shields.io/badge/Incident-Response-red" />
-  <img src="https://img.shields.io/badge/SIEM-Analysis-blueviolet" />
-  <img src="https://img.shields.io/badge/IOC-Analysis-important" />
-  <img src="https://img.shields.io/badge/Endpoint-Analysis-9cf" />
-  <img src="https://img.shields.io/badge/Phishing-Analysis-yellow" />
-  <img src="https://img.shields.io/badge/Network-Forensics-orange" />
-  <img src="https://img.shields.io/badge/Malware-Analysis-critical" />
-  <img src="https://img.shields.io/badge/Threat-Intelligence-informational" />
-</p>
+    def motto(self) -> str:
+        return "Detect. Investigate. Respond. Repeat."
 
-- Security Monitoring
-- Threat Hunting
-- SIEM Analysis
-- Log Correlation
-- Incident Response
-- Digital Forensics
-- Malware Investigation
-- IOC Analysis
-- Endpoint Analysis
-- Network Traffic Analysis
-- Phishing Investigation
+me = SOCAnalyst()
+print(me.motto())
+```
+
+<br clear="right"/>
 
 ---
 
-## Offensive Security
+## 🛡️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Web-Pentesting-darkred" />
-  <img src="https://img.shields.io/badge/API-Security-blue" />
-  <img src="https://img.shields.io/badge/OWASP-Top_10-black" />
-  <img src="https://img.shields.io/badge/SSRF-Advanced-red" />
-  <img src="https://img.shields.io/badge/RCE-Critical-darkred" />
-  <img src="https://img.shields.io/badge/XSS-Testing-yellow" />
-  <img src="https://img.shields.io/badge/SQL-Injection-important" />
-  <img src="https://img.shields.io/badge/XXE-Exploitation-blueviolet" />
-  <img src="https://img.shields.io/badge/Command-Injection-critical" />
-</p>
+**🖥️ SIEM & Log Analysis**
 
-- Web Application Pentesting
-- API Security Testing
-- Authentication Testing
-- OWASP Top 10
-- Vulnerability Assessment
-- Exploitation Labs
-- Command Injection
-- SSRF
-- RCE
-- XSS
-- SQL Injection
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Windows Event Logs](https://img.shields.io/badge/Windows_Event_Logs-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-4B0082?style=flat-square&logo=windows&logoColor=white)
+![Linux Logs](https://img.shields.io/badge/Linux_Logs-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
+**🌐 Network Security & Analysis**
 
-## Tools & Technologies
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-003545?style=flat-square&logo=gnu&logoColor=white)
+![Cisco ASA](https://img.shields.io/badge/Cisco_ASA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Zero_Trust-FF6B35?style=flat-square&logo=security&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk" />
-  <img src="https://img.shields.io/badge/ELK-Stack-blue" />
-  <img src="https://img.shields.io/badge/Sigma-Rules-darkblue" />
-  <img src="https://img.shields.io/badge/Wireshark-Network_Analysis-blue" />
-  <img src="https://img.shields.io/badge/Volatility-Memory_Forensics-black" />
-  <img src="https://img.shields.io/badge/Sysmon-Windows_Logging-success" />
-  <img src="https://img.shields.io/badge/Suricata-IDS-red" />
-  <img src="https://img.shields.io/badge/Zeek-Network_Monitoring-blueviolet" />
-  <img src="https://img.shields.io/badge/Nmap-Network_Scanning-informational" />
-  <img src="https://img.shields.io/badge/Kali-Linux-557C94?logo=kalilinux" />
-  <img src="https://img.shields.io/badge/Linux-Terminal-black?logo=linux" />
-  <img src="https://img.shields.io/badge/Python-Automation-blue?logo=python" />
-</p>
+**🔍 Threat Intelligence & OSINT**
 
-- Splunk
-- ELK Stack
-- Sigma Rules
-- Wireshark
-- Sysmon
-- Volatility
-- Nmap
-- Burp Suite
-- Kali Linux
-- Suricata
-- Zeek
-- Windows Event Logs
-- Linux Logs
-- VirusTotal
-- Any.Run
-- CyberChef
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-CC0000?style=flat-square&logo=security&logoColor=white)
+![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-4CAF50?style=flat-square&logo=alienvault&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logo=mitre&logoColor=white)
+![Any.Run](https://img.shields.io/badge/Any.Run-FF6B35?style=flat-square&logo=sandbox&logoColor=white)
+![urlscan.io](https://img.shields.io/badge/urlscan.io-1A1A2E?style=flat-square&logo=search&logoColor=white)
+
+**🖱️ EDR / Endpoint**
+
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D6?style=flat-square&logo=microsoft&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-FF0000?style=flat-square&logo=crowdstrike&logoColor=white)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-6C1DFF?style=flat-square&logo=sentinelone&logoColor=white)
+![Sysinternals](https://img.shields.io/badge/Sysinternals-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**🔧 Tools & Frameworks**
+
+![CyberChef](https://img.shields.io/badge/CyberChef-4B0082?style=flat-square&logo=chef&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-8B0000?style=flat-square&logo=forensic&logoColor=white)
+![Sigma Rules](https://img.shields.io/badge/Sigma_Rules-FFA500?style=flat-square&logo=sigma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hybrid Analysis](https://img.shields.io/badge/Hybrid_Analysis-1A1A2E?style=flat-square&logo=analysis&logoColor=white)
 
 ---
 
-# Featured Repositories
+## 🔥 Streak Stats
 
-## SOC Investigations & DFIR
+<div align="center">
 
-### SOC Hands-on Investigation and Challenges
-Professional SOC investigation repository containing real world blue team investigations, malware analysis, phishing investigations, endpoint forensics, threat hunting, and network traffic analysis challenges.
+<img src="https://streak-stats.demolab.com?user=RUTHRAN-SEC&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
-Repository:
-- https://github.com/RUTHRAN-SEC/SOC-Hands-on-Investigation-and-Challenges
-
-Investigations Include:
-- Endpoint Analysis
-- Malware Analysis
-- Network Traffic Analysis
-- Phishing Analysis
-- Threat Intelligence Reports
-- CVE Analysis
-- Log Investigations
-- DFIR Workflows
+</div>
 
 ---
 
-## Detection Engineering & SIEM
+## 📈 Activity Graph
 
-### SOC-ELK-Sigma
-Hands on SIEM engineering and detection repository focused on ELK Stack, Sigma rules, security monitoring, and detection logic creation.
+<div align="center">
 
-Repository:
-- https://github.com/RUTHRAN-SEC/SOC-ELK-Sigma
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RUTHRAN-SEC&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 
-Focus Areas:
-- Sigma Rules
-- ELK Stack
-- Detection Engineering
-- Threat Detection
-- Log Correlation
-- SIEM Monitoring
+</div>
 
 ---
 
-## Web Application Security
+## 💼 Work Experience & Learning Journey
 
-### WebSec-Playbook
-Comprehensive web application security repository covering practical exploitation and mitigation techniques for modern web vulnerabilities.
+<details>
+<summary>🛡️ SOC Analyst Self-Study Roadmap &nbsp;|&nbsp; Phases 1–10 &nbsp;|&nbsp; 2024 – 2026 &nbsp;|&nbsp; Remote</summary>
 
-Repository:
-- https://github.com/RUTHRAN-SEC/WebSec-Playbook
+<br/>
 
-Topics Include:
-- SSRF
-- RCE
-- Command Injection
-- SQL Injection
-- XSS
-- XXE
-- Broken Access Control
-- File Upload Vulnerabilities
-- Host Header Poisoning
-- Prototype Pollution
+> `Networking` `Windows OS` `Sysmon` `Linux` `Splunk SIEM` `Log Analysis` `SOC Investigations` `Threat Detection` `MITRE ATT&CK` `EDR/XDR`
 
----
+- Completed a structured 10-phase SOC Analyst roadmap covering all core blue team disciplines from network fundamentals through advanced EDR/XDR operations.
+- Mastered Splunk SPL query writing — built dashboards, alerts, and reports for real-world investigation scenarios including brute force, phishing, and malware triage.
+- Developed deep expertise in Windows Event Log analysis (EIDs 4624/4625/4688/4720) and Sysmon correlation (EIDs 1/3/7/8/10/11/13/22) for endpoint threat hunting.
+- Mapped every investigation finding to MITRE ATT&CK techniques, applying Cyber Kill Chain and Diamond Model frameworks for structured adversary behavior analysis.
 
-### WebApp-Pentesting
-Practical web application penetration testing repository with vulnerability assessments, exploitation techniques, and security testing workflows.
+</details>
 
-Repository:
-- https://github.com/RUTHRAN-SEC/WebApp-Pentesting
+<details>
+<summary>📜 Google Cybersecurity Professional Certificate &nbsp;|&nbsp; Google / Coursera &nbsp;|&nbsp; 2024</summary>
 
----
+<br/>
 
-## API Security
+> `Security Fundamentals` `Network Security` `Linux` `Python` `SIEM` `Incident Response` `SQL`
 
-### API-security-testing-framework
-API security testing project focused on authentication testing, API vulnerability discovery, authorization bypasses, and API attack surface analysis.
+- Completed all 8 courses covering threat analysis, vulnerability assessment, network hardening, and incident response lifecycle.
+- Applied hands-on labs in Python scripting for security automation and SQL for log querying.
+- Studied NIST CSF, security frameworks, and risk management principles applicable to real SOC environments.
+- Earned certification validating foundational cybersecurity skills aligned with industry SOC Tier 1 role requirements.
 
-Repository:
-- https://github.com/RUTHRAN-SEC/API-security-testing-framework
+</details>
 
----
+<details>
+<summary>🌐 Cisco Endpoint Security Certification &nbsp;|&nbsp; Cisco Networking Academy &nbsp;|&nbsp; 2024</summary>
 
-## Blue Team Mini Projects
+<br/>
 
-### Mini-BlueTeam-Projects
-Collection of blue team projects focused on monitoring, alerting, detection engineering, and SOC automation concepts.
+> `Endpoint Security` `Cisco Technologies` `Malware Defense` `Network Access Control` `AAA`
 
-Repository:
-- https://github.com/RUTHRAN-SEC/Mini-BlueTeam-Projects
+- Studied endpoint protection strategies including antivirus/EDR deployment, host-based intrusion detection, and device compliance.
+- Covered AAA (Authentication, Authorization, Accounting) and network access control architectures used in enterprise environments.
+- Gained knowledge of Cisco security product ecosystem relevant to real-world SOC toolsets and vendor environments.
+
+</details>
 
 ---
 
-## Pentesting & CTF
+## 🚀 Featured Projects
 
-### PenTest-and-CTF
-Hands on penetration testing labs and Capture The Flag writeups documenting exploitation methodologies, privilege escalation techniques, reconnaissance, and post-exploitation.
+<div align="center">
 
-Repository:
-- https://github.com/RUTHRAN-SEC/PenTest-and-CTF
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| [🔵 SOC Hands-On Investigations & DFIR Portfolio](https://github.com/RUTHRAN-SEC/SOC-Hands-on-Investigation-and-Challenges) | `Splunk` `Elastic` `Wireshark` `Any.Run` `VirusTotal` `MITRE ATT&CK` | **176+ commits** of real-world SOC investigations · Covers phishing, malware, brute force, crypto hijacking, NTA & CVE analysis · Full IOC extraction, enrichment & incident documentation |
+| [🏛️ Enterprise Network Architecture 2026](https://github.com/RUTHRAN-SEC/Enterprise-Network-Architecture-2026) | `Cisco Packet Tracer` `ASA Firewall` `VLANs` `ACLs` `SIEM Syslog` `TACACS+` | **10 VLANs** (HR/Finance/IT/SOC/DMZ) with Zero Trust inter-VLAN ACL policies · ASA firewall with 3 security zones, static NAT, PAT, extended ACLs · Full Layer 2 attack mitigations: DHCP Snooping, DAI, Port Security, BPDU Guard |
 
-Topics Include:
-- Enumeration
-- Privilege Escalation
-- Web Exploitation
-- Linux PrivEsc
-- Network Reconnaissance
-- CTF Walkthroughs
+</div>
 
 ---
 
-# Investigation Areas
+## 🏅 Achievements & Certifications
 
-- Malware Analysis
-- Threat Hunting
-- Endpoint Detection
-- Windows Forensics
-- Linux Log Analysis
-- Web Attack Analysis
-- Network Forensics
-- Phishing Investigations
-- SIEM Alert Triage
-- IOC Correlation
-- Threat Intelligence
-- Authentication Abuse
-- Privilege Escalation
-- Persistence Mechanisms
-- Suspicious PowerShell Activity
-- Web Shell Detection
-- Cloud Attack Detection
+<div align="center">
 
----
+| 🏆 | Achievement | Details |
+|:---:|:------------|:--------|
+| 🎓 | **Google Cybersecurity Professional Certificate** | All 8 courses — Security, Linux, Python, SIEM, IR |
+| 🌐 | **Cisco Endpoint Security** | Cisco Networking Academy certified |
+| 📂 | **SOC Portfolio — 176+ Commits** | Comprehensive DFIR & SOC investigation portfolio on GitHub |
+| 🗺️ | **MITRE ATT&CK Practitioner** | All investigations mapped to ATT&CK techniques |
+| 🛡️ | **SOC Roadmap — Phases 1–10 Complete** | Self-study covering full blue team operations lifecycle |
+| 🏗️ | **Enterprise Network Architect** | Designed banking/healthcare-grade network simulation from scratch |
+| 🔍 | **Multi-Platform SIEM Proficiency** | Splunk SPL + Elastic Stack investigations |
+| 🕵️ | **Threat Intelligence Analyst** | VirusTotal · AbuseIPDB · AlienVault OTX · urlscan.io · Any.Run |
+| 🐍 | **Python Scripting for Security** | JSON · CSV · Regex · Requests · Log Parsing |
+| 📋 | **Incident Documentation Specialist** | Structured IR reports with IOC extraction & remediation notes |
 
-# Current Focus
-
-- Advanced Threat Hunting
-- Detection Engineering
-- SOC Automation
-- Cloud Security Monitoring
-- API Security
-- Advanced Web Exploitation
-- Malware Traffic Analysis
-- DFIR Investigations
+</div>
 
 ---
 
-# Learning Platforms
+## 🎓 Education
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TryHackMe-Labs-red" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-CTF-green" />
-  <img src="https://img.shields.io/badge/PortSwigger-Web_Security-orange" />
-  <img src="https://img.shields.io/badge/CyberDefenders-Blue_Team-blue" />
-  <img src="https://img.shields.io/badge/BlueTeamLabs-Online-darkblue" />
-</p>
+<div align="center">
 
-- PortSwigger Web Security Academy
-- TryHackMe
-- Hack The Box
-- CyberDefenders
-- BTLO
-- RangeForce
+| Degree | Institution | Year | Status |
+|:-------|:------------|:-----|:-------|
+| B.Voc Data Science | The American College | 2024 – 2027 | 🟢 In Progress |
+
+</div>
 
 ---
 
-# Learning
+## 📚 Currently Learning
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-Programming-blue" />
-  <img src="https://img.shields.io/badge/SQL-Database-informational" />
-  <img src="https://img.shields.io/badge/Power_BI-Analytics-yellow" />
-  <img src="https://img.shields.io/badge/Tableau-Visualization-blue" />
-  <img src="https://img.shields.io/badge/Machine-Learning-success" />
-  <img src="https://img.shields.io/badge/TensorFlow-AI-orange" />
-  <img src="https://img.shields.io/badge/Ethical-Hacking-critical" />
-</p>
-
-- Data Science
-- Python
-- SQL
-- Power BI
-- Machine Learning
-- TensorFlow
-- Cybersecurity Labs
-- Network Security
-- Ethical Hacking
+```
+🔴  Malware Reverse Engineering  →  PE Analysis · Static Strings · Dynamic Sandboxing
+☁️   Cloud Security              →  AWS Security Hub · Microsoft Azure Sentinel · CloudTrail
+🐍  Python for Security          →  SOAR Automation · Log Parsing · API Integration
+📜  Detection Engineering        →  Custom Sigma Rules · Alert Tuning · False Positive Reduction
+🧠  Threat Hunting               →  Hypothesis-Driven Hunting · Living-Off-The-Land TTPs
+🕵️   DFIR Deep Dive              →  Memory Forensics (Volatility) · Disk Forensics (Autopsy)
+```
 
 ---
 
-# Connect
+## 🤝 Connect With Me
 
-GitHub:
-- https://github.com/RUTHRAN-SEC
+<div align="center">
 
-LinkedIn:
-- www.linkedin.com/in/ruthran-sec
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ruthran--sec-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruthran-sec)
+[![GitHub](https://img.shields.io/badge/GitHub-RUTHRAN--SEC-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RUTHRAN-SEC)
+[![Email](https://img.shields.io/badge/Email-ruthran.sec%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruthran.sec@gmail.com)
+
+</div>
 
 ---
 
-**"Security investigations are built through practice, curiosity, and continuous analysis."**
+<div align="center">
+
+*"In a world of noise, the SOC analyst finds the signal."*
+
+**Detect. Investigate. Respond. Repeat.** 🛡️
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
