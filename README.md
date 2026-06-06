@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <!-- HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RUTHRAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=SOC%20Analyst%20%7C%20Blue%20Team%20Defender%20%7C%20DFIR%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
