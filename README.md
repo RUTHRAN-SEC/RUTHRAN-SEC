@@ -133,7 +133,7 @@ print(me.motto())
 > `Networking` `Windows OS` `Sysmon` `Linux` `Splunk SIEM` `Log Analysis` `SOC Investigations` `Threat Detection` `MITRE ATT&CK` `EDR/XDR`
 
 - Completed a structured 10-phase SOC Analyst roadmap covering all core blue team disciplines from network fundamentals through advanced EDR/XDR operations.
-- Mastered Splunk SPL query writing — built dashboards, alerts, and reports for real-world investigation scenarios including brute force, phishing, and malware triage.
+- Mastered Splunk SPL query writing built dashboards, alerts, and reports for real world investigation scenarios including brute force, phishing, and malware triage.
 - Developed deep expertise in Windows Event Log analysis (EIDs 4624/4625/4688/4720) and Sysmon correlation (EIDs 1/3/7/8/10/11/13/22) for endpoint threat hunting.
 - Mapped every investigation finding to MITRE ATT&CK techniques, applying Cyber Kill Chain and Diamond Model frameworks for structured adversary behavior analysis.
 
@@ -147,7 +147,7 @@ print(me.motto())
 > `Security Fundamentals` `Network Security` `Linux` `Python` `SIEM` `Incident Response` `SQL`
 
 - Completed all 8 courses covering threat analysis, vulnerability assessment, network hardening, and incident response lifecycle.
-- Applied hands-on labs in Python scripting for security automation and SQL for log querying.
+- Applied hands on labs in Python scripting for security automation and SQL for log querying.
 - Studied NIST CSF, security frameworks, and risk management principles applicable to real SOC environments.
 - Earned certification validating foundational cybersecurity skills aligned with industry SOC Tier 1 role requirements.
 
@@ -160,9 +160,9 @@ print(me.motto())
 
 > `Endpoint Security` `Cisco Technologies` `Malware Defense` `Network Access Control` `AAA`
 
-- Studied endpoint protection strategies including antivirus/EDR deployment, host-based intrusion detection, and device compliance.
+- Studied endpoint protection strategies including antivirus/EDR deployment, host based intrusion detection, and device compliance.
 - Covered AAA (Authentication, Authorization, Accounting) and network access control architectures used in enterprise environments.
-- Gained knowledge of Cisco security product ecosystem relevant to real-world SOC toolsets and vendor environments.
+- Gained knowledge of Cisco security product ecosystem relevant to real world SOC toolsets and vendor environments.
 
 </details>
 
@@ -174,8 +174,8 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🔵 SOC Hands-On Investigations & DFIR Portfolio](https://github.com/RUTHRAN-SEC/SOC-Hands-on-Investigation-and-Challenges) | `Splunk` `Elastic` `Wireshark` `Any.Run` `VirusTotal` `MITRE ATT&CK` | **176+ commits** of real-world SOC investigations · Covers phishing, malware, brute force, crypto hijacking, NTA & CVE analysis · Full IOC extraction, enrichment & incident documentation |
-| [🏛️ Enterprise Network Architecture 2026](https://github.com/RUTHRAN-SEC/Enterprise-Network-Architecture-2026) | `Cisco Packet Tracer` `ASA Firewall` `VLANs` `ACLs` `SIEM Syslog` `TACACS+` | **10 VLANs** (HR/Finance/IT/SOC/DMZ) with Zero Trust inter-VLAN ACL policies · ASA firewall with 3 security zones, static NAT, PAT, extended ACLs · Full Layer 2 attack mitigations: DHCP Snooping, DAI, Port Security, BPDU Guard |
+| [🔵 SOC Hands-On Investigations & DFIR Portfolio](https://github.com/RUTHRAN-SEC/SOC-Hands-on-Investigation-and-Challenges) | `Splunk` `Elastic` `Wireshark` `Any.Run` `VirusTotal` `MITRE ATT&CK` | **176+ commits** of real world SOC investigations · Covers phishing, malware, brute force, crypto hijacking, NTA & CVE analysis · Full IOC extraction, enrichment & incident documentation |
+| [🏛️ Enterprise Network Architecture 2026](https://github.com/RUTHRAN-SEC/Enterprise-Network-Architecture-2026) | `Cisco Packet Tracer` `ASA Firewall` `VLANs` `ACLs` `SIEM Syslog` `TACACS+` | **10 VLANs** (HR/Finance/IT/SOC/DMZ) with Zero Trust inter VLAN ACL policies · ASA firewall with 3 security zones, static NAT, PAT, extended ACLs · Full Layer 2 attack mitigations: DHCP Snooping, DAI, Port Security, BPDU Guard |
 
 </div>
 
@@ -187,11 +187,11 @@ print(me.motto())
 
 | 🏆 | Achievement | Details |
 |:---:|:------------|:--------|
-| 🎓 | **Google Cybersecurity Professional Certificate** | All 8 courses — Security, Linux, Python, SIEM, IR |
+| 🎓 | **Google Cybersecurity Professional Certificate** | All 8 courses: Security, Linux, Python, SIEM, IR |
 | 🌐 | **Cisco Endpoint Security** | Cisco Networking Academy certified |
 | 📂 | **SOC Portfolio — 176+ Commits** | Comprehensive DFIR & SOC investigation portfolio on GitHub |
 | 🗺️ | **MITRE ATT&CK Practitioner** | All investigations mapped to ATT&CK techniques |
-| 🛡️ | **SOC Roadmap — Phases 1–10 Complete** | Self-study covering full blue team operations lifecycle |
+| 🛡️ | **SOC Roadmap — Phases 1–10 Complete** | Self study covering full blue team operations lifecycle |
 | 🏗️ | **Enterprise Network Architect** | Designed banking/healthcare-grade network simulation from scratch |
 | 🔍 | **Multi-Platform SIEM Proficiency** | Splunk SPL + Elastic Stack investigations |
 | 🕵️ | **Threat Intelligence Analyst** | VirusTotal · AbuseIPDB · AlienVault OTX · urlscan.io · Any.Run |
